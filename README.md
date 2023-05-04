@@ -1,3 +1,3 @@
 # Files
 
-Files and wallpapers for different projects
+Misc files and stuff for different projects
